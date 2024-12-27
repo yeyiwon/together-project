@@ -42,6 +42,8 @@ https://together-project-navy.vercel.app/gatherings
 
 https://github.com/fesi-05-01/frontend
 
+발표 pdf : 
+
 ## 👻 역할
 
 ### 회원가입 / 로그인
@@ -91,8 +93,9 @@ https://github.com/user-attachments/assets/d0013a30-d993-43a9-9820-6d099765dd85
 
 https://github.com/user-attachments/assets/3f659c49-624f-49d1-86fb-eb6d8f69e329
 
+### 플로팅바 
 
-
+![B86D1D88-6F2C-4C86-8E7E-3928FA2F0C87_1_102_a](https://github.com/user-attachments/assets/7a8a136a-fa86-4ced-9b05-fb6087b82945)
 
 
 
