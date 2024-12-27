@@ -2,8 +2,8 @@
 
 # 😀 Together Dallaem Team Project
 코드잇 단기 심화 과정 5기 팀 프로젝트 
-팀원 프론트엔드 4명
-빌표 ppt 링크 : [같이 달램.pdf](https://github.com/user-attachments/files/18257764/default.pdf)
+    팀원 프론트엔드 4명
+    발표 ppt 링크 : [같이 달램.pdf](https://github.com/user-attachments/files/18257764/default.pdf)
 
 
 ## 📌 목차
