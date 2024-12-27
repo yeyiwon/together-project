@@ -7,8 +7,9 @@
 1. [📝 프로젝트 설명](#📝-프로젝트-설명)
 2. [🍃 배포 주소](#🍃-배포-주소)
 3. [👻 역할](#👻-역할)
-4. [⚒️ 기술 스택](#⚒️-기술-스택)
-5. [🎥 시연](#사이트-구성)
+4. [🙌🏻 협업 레퍼지토리](#🙌🏻-협업-레퍼지토리)
+5. [⚒️ 기술 스택](#⚒️-기술-스택)
+6. [🎥 시연](#🎥-시연)
 
 ## 📝 프로젝트 설명
 
@@ -25,6 +26,21 @@ https://together-project-navy.vercel.app/gatherings
 
     ID : test1@test.com
     PW : test1234*
+
+## ⚒️ 기술 스택
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+## 🙌🏻 협업 레퍼지토리
+
+https://github.com/fesi-05-01/frontend
 
 ## 👻 역할
 
@@ -59,20 +75,5 @@ https://together-project-navy.vercel.app/gatherings
     모든 API 호출을 처리하는 커스텀 훅을 분리하여 다양한 엔드포인트 로직을 재사용 가능하게 하여 유지보수 및 확장성을 높였습니다.
     jest 테스트 코드
     공통 컴포넌트 테스트 재사용 가능한 UI 컴포넌트를 테스트하여 모든 컴포넌트가 예상대로 동작하는지 테스트하였습니다
-
-## ⚒️ 기술 스택
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-### 협업 레퍼지토리
-
-https://github.com/fesi-05-01/frontend
 
 ## 🎥 시연
