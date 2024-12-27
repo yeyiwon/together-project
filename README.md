@@ -78,8 +78,24 @@ https://github.com/fesi-05-01/frontend
 
 ## 🎥 시연
 
+### 회원가입 페이지 
 
-https://github.com/user-attachments/assets/b331cfe5-0d6f-48cb-96ea-221a49e50230
+https://github.com/user-attachments/assets/486166f3-def9-477b-a139-b047325f0431
+
+### 로그인 페이지 
+
+https://github.com/user-attachments/assets/d0013a30-d993-43a9-9820-6d099765dd85
+
+### GNB & 유저 프로필 수정 & 로그아웃 
+
+
+https://github.com/user-attachments/assets/3f659c49-624f-49d1-86fb-eb6d8f69e329
+
+
+
+
+
+
 
 
 
